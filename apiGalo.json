@@ -1,0 +1,197 @@
+[
+    {
+        "nome": "Victor Leandro Bagy",
+        "apelido": "Victor",
+        "posicao": "Goleiro",
+        "jogos": "421",
+        "gols": "0",
+        "assistencias": "0",
+        "penaltisDefendidos": "20",
+        "vitorias": "205",
+        "foto": "https://www.galodigital.com.br/w/images/c/c3/Victor2021.png",
+        "numeroCamisa": "1"
+    },
+
+    {
+        "nome": "Leonardo Fabiano da Silva e Silva",
+        "apelido": "Léo Silva",
+        "posicao": "Zagueiro",
+        "jogos": "288",
+        "gols": "36",
+        "assistencias": "6",
+        "penaltisDefendidos": "0",
+        "vitorias": "201",
+        "foto": "https://www.galodigital.com.br/w/images/f/f0/Lsilva-lecoq.jpeg",
+        "numeroCamisa": "4"
+    },
+
+    {
+        "nome": "Réver Humberto Alves Araújo",
+        "apelido": "Réver",
+        "posicao": "Zagueiro",
+        "jogos": "350",
+        "gols": "31",
+        "assistencias": "12",
+        "penaltisDefendidos": "0",
+        "vitorias": "203",
+        "foto": "https://www.galodigital.com.br/w/images/4/4c/R%c3%a9ver2023b.png",
+        "numeroCamisa": "3"
+    },
+
+
+    {
+        "nome": "Guilherme Antônio Arana Lopes",
+        "apelido": "Arana",
+        "posicao": "Lateral Esquerdo",
+        "jogos": "154",
+        "gols": "14",
+        "assistencias": "24",
+        "penaltisDefendidos": "0",
+        "vitorias": "87",
+        "foto": "https://www.galodigital.com.br/w/images/6/6d/Arana2023b.png",
+        "numeroCamisa": "13"
+    },
+
+    {
+        "nome": "Jesús Alberto Dátolo",
+        "apelido": "Dátolo",
+        "posicao": "Meia Atacante",
+        "jogos": "86",
+        "gols": "13",
+        "assistencias": "21",
+        "penaltisDefendidos": "0",
+        "vitorias": "51",
+        "foto": "https://www.galodigital.com.br/w/images/4/42/20160219-Datolo.jpg",
+        "numeroCamisa": "10"
+    },
+
+    {
+        "nome": "Juan Ramón Cazares Sevillano",
+        "apelido": "Cazares",
+        "posicao": "Meia Atacante",
+        "jogos": "135",
+        "gols": "32",
+        "assistencias": "23",
+        "penaltisDefendidos": "0",
+        "vitorias": "68",
+        "foto": "https://www.galodigital.com.br/w/images/6/6c/Cazares10.png",
+        "numeroCamisa": "10"
+    },
+
+    {
+        "nome": "Ignacio Martín Fernández",
+        "apelido": "Nacho Fernández",
+        "posicao": "Meia Atacante",
+        "jogos": "109",
+        "gols": "20",
+        "assistencias": "21",
+        "penaltisDefendidos": "0",
+        "vitorias": "62",
+        "foto": "https://www.galodigital.com.br/w/images/a/a2/Nacho2022-2.png",
+        "numeroCamisa": "26"
+    },
+
+    {
+        "nome": "Ronaldo de Assís Moreira",
+        "apelido": "Ronaldinho Gaúcho",
+        "posicao": "Meia Atacante",
+        "jogos": "74",
+        "gols": "24",
+        "assistencias": "28",
+        "penaltisDefendidos": "0",
+        "vitorias": "41",
+        "foto": "https://farm8.staticflickr.com/7400/13251895585_f8923694df_z.jpg",
+        "numeroCamisa": "10"
+    },
+
+    {
+        "nome": "Bernard Anício Caldeira Duarte",
+        "apelido": "Bernard",
+        "posicao": "Ponta Esquerda",
+        "jogos": "75",
+        "gols": "16",
+        "assistencias": "19",
+        "penaltisDefendidos": "0",
+        "vitorias": "42",
+        "foto": "https://farm9.staticflickr.com/8052/8438076691_9c1ab8df28.jpg",
+        "numeroCamisa": "11"
+    },
+
+    {
+        "nome": "Luan Madson Gedeão de Paiva",
+        "apelido": "Luan",
+        "posicao": "Ponta Direita",
+        "jogos": "218",
+        "gols": "28",
+        "assistencias": "28",
+        "penaltisDefendidos": "0",
+        "vitorias": "117",
+        "foto": "https://www.galodigital.com.br/w/images/2/2f/Luan-lecoq.png",
+        "numeroCamisa": "27"
+    },
+
+    {
+        "nome": "Marcos da Silva França",
+        "apelido": "Keno",
+        "posicao": "Ponta Esquerda",
+        "jogos": "125",
+        "gols": "25",
+        "assistencias": "17",
+        "penaltisDefendidos": "0",
+        "vitorias": "74",
+        "foto": "https://www.galodigital.com.br/w/images/6/61/Keno2022-2.png",
+        "numeroCamisa": "11"
+    },
+
+    {
+        "nome": "Paulo Henrique Sampaio Filho",
+        "apelido": "Paulinho",
+        "posicao": "Ponta Esquerda",
+        "jogos": "44",
+        "gols": "18",
+        "assistencias": "6",
+        "penaltisDefendidos": "0",
+        "vitorias": "20",
+        "foto": "https://www.galodigital.com.br/w/images/8/89/Paulinho2023b.png",
+        "numeroCamisa": "10"
+    },
+
+    {
+        "nome": "Diego Tardelli Martins",
+        "apelido": "Tardelli",
+        "posicao": "Centroavante",
+        "jogos": "230",
+        "gols": "112",
+        "assistencias": "31",
+        "penaltisDefendidos": "0",
+        "vitorias": "119",
+        "foto": "https://www.galodigital.com.br/w/images/a/a6/Tardelli2021.png",
+        "numeroCamisa": "9"
+    },
+
+    {
+        "nome": "Givanildo Vieira de Sousa",
+        "apelido": "Hulk",
+        "posicao": "Centroavante",
+        "jogos": "158",
+        "gols": "87",
+        "assistencias": "26",
+        "penaltisDefendidos": "0",
+        "vitorias": "93",
+        "foto": "https://www.galodigital.com.br/w/images/2/2f/Hulk2023b.png",
+        "numeroCamisa": "7"
+    },
+
+    {
+        "nome": "João Alves de Assis Silva",
+        "apelido": "Jô",
+        "posicao": "Centroavante",
+        "jogos": "127",
+        "gols": "39",
+        "assistencias": "19",
+        "penaltisDefendidos": "0",
+        "vitorias": "63",
+        "foto": "https://www.galodigital.com.br/w/images/a/a8/20150107-Jo.jpg",
+        "numeroCamisa": "7"
+    }
+]
