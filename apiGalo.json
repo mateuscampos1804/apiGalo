@@ -58,6 +58,34 @@
 
     {
         "id": "5",
+        "nome": "Marcos Luis Rocha Aquino",
+        "apelido": "Marcos Rocha",
+        "posicao": "Lateral Direito",
+        "jogos": "306",
+        "gols": "13",
+        "assistencias": "39",
+        "penaltisDefendidos": "0",
+        "vitorias": "170",
+        "foto": "https://www.galodigital.com.br/w/images/c/c2/20160219-MarcosRocha.jpg",
+        "numeroCamisa": "2"
+    },
+
+    {
+        "id": "6",
+        "nome": "Leandro Donizete Gonçalves da Silva",
+        "apelido": "Donizete",
+        "posicao": "Volante",
+        "jogos": "231",
+        "gols": "4",
+        "assistencias": "12",
+        "penaltisDefendidos": "0",
+        "vitorias": "132",
+        "foto": "https://www.galodigital.com.br/w/images/d/d9/20160219-LeandroDonizete.jpg",
+        "numeroCamisa": "8"
+    },
+
+    {
+        "id": "7",
         "nome": "Jesús Alberto Dátolo",
         "apelido": "Dátolo",
         "posicao": "Meia Atacante",
@@ -71,7 +99,7 @@
     },
 
     {
-        "id": "6",
+        "id": "8",
         "nome": "Juan Ramón Cazares Sevillano",
         "apelido": "Cazares",
         "posicao": "Meia Atacante",
@@ -85,7 +113,7 @@
     },
 
     {
-        "id": "7",
+        "id": "9",
         "nome": "Ignacio Martín Fernández",
         "apelido": "Nacho Fernández",
         "posicao": "Meia Atacante",
@@ -99,7 +127,7 @@
     },
 
     {
-        "id": "8",
+        "id": "10",
         "nome": "Ronaldo de Assís Moreira",
         "apelido": "Ronaldinho Gaúcho",
         "posicao": "Meia Atacante",
@@ -113,7 +141,7 @@
     },
 
     {
-        "id": "9",
+        "id": "11",
         "nome": "Bernard Anício Caldeira Duarte",
         "apelido": "Bernard",
         "posicao": "Ponta Esquerda",
@@ -123,34 +151,6 @@
         "penaltisDefendidos": "0",
         "vitorias": "42",
         "foto": "https://farm9.staticflickr.com/8052/8438076691_9c1ab8df28.jpg",
-        "numeroCamisa": "11"
-    },
-
-    {
-        "id": "10",
-        "nome": "Luan Madson Gedeão de Paiva",
-        "apelido": "Luan",
-        "posicao": "Ponta Direita",
-        "jogos": "218",
-        "gols": "28",
-        "assistencias": "28",
-        "penaltisDefendidos": "0",
-        "vitorias": "117",
-        "foto": "https://www.galodigital.com.br/w/images/2/2f/Luan-lecoq.png",
-        "numeroCamisa": "27"
-    },
-
-    {
-        "id": "11",
-        "nome": "Marcos da Silva França",
-        "apelido": "Keno",
-        "posicao": "Ponta Esquerda",
-        "jogos": "125",
-        "gols": "25",
-        "assistencias": "17",
-        "penaltisDefendidos": "0",
-        "vitorias": "74",
-        "foto": "https://www.galodigital.com.br/w/images/6/61/Keno2022-2.png",
         "numeroCamisa": "11"
     },
 
