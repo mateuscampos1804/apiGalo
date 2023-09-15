@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "funcao": "defensor",
         "nome": "Victor Leandro Bagy",
         "apelido": "Victor",
         "posicao": "Goleiro",
@@ -15,6 +16,7 @@
 
     {
         "id": "2",
+        "funcao": "defensor",
         "nome": "Leonardo Fabiano da Silva e Silva",
         "apelido": "Léo Silva",
         "posicao": "Zagueiro",
@@ -29,6 +31,7 @@
 
     {
         "id": "3",
+        "funcao": "defensor",
         "nome": "Réver Humberto Alves Araújo",
         "apelido": "Réver",
         "posicao": "Zagueiro",
@@ -44,6 +47,7 @@
 
     {
         "id": "4",
+        "funcao": "defensor",
         "nome": "Guilherme Antônio Arana Lopes",
         "apelido": "Arana",
         "posicao": "Lateral Esquerdo",
@@ -58,6 +62,7 @@
 
     {
         "id": "5",
+        "funcao": "defensor",
         "nome": "Marcos Luis Rocha Aquino",
         "apelido": "Marcos Rocha",
         "posicao": "Lateral Direito",
@@ -72,6 +77,7 @@
 
     {
         "id": "6",
+        "funcao": "meia",
         "nome": "Leandro Donizete Gonçalves da Silva",
         "apelido": "Donizete",
         "posicao": "Volante",
@@ -86,6 +92,7 @@
 
     {
         "id": "7",
+        "funcao": "meia",
         "nome": "Jesús Alberto Dátolo",
         "apelido": "Dátolo",
         "posicao": "Meia Atacante",
@@ -100,6 +107,7 @@
 
     {
         "id": "8",
+        "funcao": "meia",
         "nome": "Juan Ramón Cazares Sevillano",
         "apelido": "Cazares",
         "posicao": "Meia Atacante",
@@ -114,6 +122,7 @@
 
     {
         "id": "9",
+        "funcao": "meia",
         "nome": "Ignacio Martín Fernández",
         "apelido": "Nacho Fernández",
         "posicao": "Meia Atacante",
@@ -128,6 +137,7 @@
 
     {
         "id": "10",
+        "funcao": "meia",
         "nome": "Ronaldo de Assís Moreira",
         "apelido": "Ronaldinho Gaúcho",
         "posicao": "Meia Atacante",
@@ -142,6 +152,7 @@
 
     {
         "id": "11",
+        "funcao": "atacante",
         "nome": "Bernard Anício Caldeira Duarte",
         "apelido": "Bernard",
         "posicao": "Ponta Esquerda",
@@ -156,6 +167,7 @@
 
     {
         "id": "12",
+        "funcao": "atacante",
         "nome": "Paulo Henrique Sampaio Filho",
         "apelido": "Paulinho",
         "posicao": "Ponta Esquerda",
@@ -170,6 +182,7 @@
 
     {
         "id": "13",
+        "funcao": "atacante",
         "nome": "Diego Tardelli Martins",
         "apelido": "Tardelli",
         "posicao": "Centroavante",
@@ -184,6 +197,7 @@
 
     {
         "id": "14",
+        "funcao": "atacante",
         "nome": "Givanildo Vieira de Sousa",
         "apelido": "Hulk",
         "posicao": "Centroavante",
@@ -198,6 +212,7 @@
 
     {
         "id": "15",
+        "funcao": "atacante",
         "nome": "João Alves de Assis Silva",
         "apelido": "Jô",
         "posicao": "Centroavante",
