@@ -224,19 +224,4 @@
         "foto": "https://www.galodigital.com.br/w/images/a/a8/20150107-Jo.jpg",
         "numeroCamisa": "7"
     },
-
-    {
-        "id": "15",
-        "funcao": "atacante",
-        "nome": "João Alves de Assis Silva",
-        "apelido": "Jô",
-        "posicao": "Centroavante",
-        "jogos": "127",
-        "gols": "39",
-        "assistencias": "19",
-        "penaltisDefendidos": "0",
-        "vitorias": "63",
-        "foto": "https://www.galodigital.com.br/w/images/a/a8/20150107-Jo.jpg",
-        "numeroCamisa": "7"
-    },
-]
+];
